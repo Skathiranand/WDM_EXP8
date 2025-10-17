@@ -28,7 +28,7 @@ One can search, navigate, and modify data using a parser. It’s versatile and s
 8) Visualize Product Data using a Bar Chart
 
 ### Program:
-```PYTHON
+```
 import requests
 from bs4 import BeautifulSoup
 import time
