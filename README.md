@@ -1,6 +1,9 @@
 ### EX8 Web Scraping On E-commerce platform using BeautifulSoup
 ### DATE: 17-10-2025
-### AIM: To perform Web Scraping on Amazon using (beautifulsoup) Python.
+### AIM: 
+
+To perform Web Scraping on Snapdeal using (beautifulsoup) Python.
+
 ### Description: 
 <div align = "justify">
 Web scraping is the process of extracting data from various websites and parsing it. In other words, it’s a technique 
